@@ -5,7 +5,7 @@ tutorial here:
 https://github.com/SuedOnAIM/RF_Template_KillSounds/wiki
 
 ___________________________________________________________
-FAQ 
+Questions and Answers 
 
 (except i made up the questions before ever releasing the mod or announcing this github so it's all assumptions of questions viewers will ask)
 ___________________________________________________________
@@ -23,3 +23,7 @@ A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to fi
 Q: Can I request a kill sound?
 
 A: You can, and you will be ignored. The point of releasing the template was so other people could make their own kill sound without begging me for one.
+
+Q: Help! I don't know what I'm doing! :(
+
+A: Skill issue. I made this template to be as easy to use as possible. Go watch Unity tutorials on YouTube if you can't even manage to import an audio file on your own.
