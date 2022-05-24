@@ -14,9 +14,11 @@ Q: How is this different than RadioactiveJellyfish's Team Voices?
 
 A: This mod plays a sound whenever you kill an enemy and it can be heard from anywhere. Jelly's mutator plays the sound locally so if you kill an enemy from 500 meters away, you won't be hearing their death cry.
 
+
 Q: Will you add Hitmarker replacing?
 
-A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to find out how to only disable the vanilla audiosource and not the entire hitmarker.
+A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to find out how to only disable the vanilla audiosource and not the entire hitmarker. If you're really desperate, take some of RadioactiveJellyfish's player voice code to make a hitmarker replacement script. https://github.com/RadioactiveJelly/ravenfield-player-voice
+
 
 Q: Can I request a kill sound?
 
