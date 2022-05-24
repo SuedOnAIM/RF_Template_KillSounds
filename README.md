@@ -4,7 +4,10 @@ template for ravenfield kill sounds mutator
 tutorial here:
 https://github.com/SuedOnAIM/RF_Template_KillSounds/wiki
 
-FAQ except i made up the questions before ever releasing the mod or announcing this github so it's all assumptions of questions viewers will ask
+___________________________________________________________
+FAQ 
+(except i made up the questions before ever releasing the mod or announcing this github so it's all assumptions of questions viewers will ask)
+___________________________________________________________
 
 Q: How is this different than RadioactiveJellyfish's Team Voices?
 A: This mod plays a sound whenever you kill an enemy and it can be heard from anywhere. Jelly's mutator plays the sound locally so if you kill an enemy from 500 meters away, you won't be hearing their death cry.
