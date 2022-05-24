@@ -21,7 +21,7 @@ A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to fi
 
 ***Q: Why doesn't it work when killing teammates?***
 
-A: I added a check to see if it was an enemy bot that was killed. Even without that check in place, the sound only plays for killing enemies. It might be a bug in RavenScript and not fixable by me. (well removing the team check is fixable but i'm not gonna bother with that lmao)
+A: I added a check for whether the player killed a friendly or enemy bot. Just remove that check from the .lua script. Yes, that does mean you will need to be willing to delete some letters. Cope and welcome to coding.
 
 ***Q: Can I request a kill sound?***
 
