@@ -21,7 +21,7 @@ A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to fi
 
 ***Q: Why doesn't it work when killing teammates?***
 
-A: You don't get rewarded for killing teammates in other shooters. Why would you be rewarded here. (or just remove the check for actor team in the script)
+A: You don't get rewarded for killing teammates in other shooters. Why would you be rewarded here. (just remove the check for actor team in the .lua script)
 
 ***Q: Can I request a kill sound?***
 
