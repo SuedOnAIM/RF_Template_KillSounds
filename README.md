@@ -21,7 +21,7 @@ A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to fi
 
 ***Q: Why doesn't it work when killing teammates?***
 
-A: You don't get rewarded for killing teammates in other shooters. Why would you be rewarded here. (just remove the check for actor team in the .lua script)
+A: I added a check to see if it was an enemy bot that was killed. Even without that check in place, the sound only plays for killing enemies. It might be a bug in RavenScript and not fixable by me. (well removing the team check is fixable but i'm not gonna bother with that lmao)
 
 ***Q: Can I request a kill sound?***
 
