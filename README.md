@@ -17,7 +17,7 @@ A: This mod plays a sound whenever you kill an enemy and it can be heard from an
 
 **Q: Will you add Hitmarker replacing?**
 
-A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to find out how to only disable the vanilla audiosource and not the entire hitmarker. If you're really desperate, take some of RadioactiveJellyfish's player voice code to make a hitmarker replacement script. https://github.com/RadioactiveJelly/ravenfield-player-voice
+A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to find out how to only disable the vanilla audiosource and not the entire hitmarker. If you're really desperate, learn how to make a hitmarker replacement script from RadioactiveJellyfish's player voice code. https://github.com/RadioactiveJelly/ravenfield-player-voice
 
 
 **Q: Can I request a kill sound?**
