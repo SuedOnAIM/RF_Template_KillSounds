@@ -21,7 +21,7 @@ A: No. The vanilla Ravenfield Hitmarkers work fine enough and I'm too lazy to fi
 
 ***Q: Why doesn't it work when killing teammates?***
 
-A: I added a check for whether the player killed a friendly or enemy bot. Just remove that check from the .lua script. Yes, that does mean you will need to be willing to delete some letters. Cope and welcome to coding.
+A: I added a check for whether the player killed a friendly or enemy bot. Just remove that check from the .lua script. Yes, that does mean you will need to edit (in reality its just deleting a few words) the code. Cope and welcome to coding.
 
 ***Q: Can I request a kill sound?***
 
