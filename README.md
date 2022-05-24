@@ -11,6 +11,7 @@ Questions and Answers
 ___________________________________________________________
 
 **Q: How is this different than RadioactiveJellyfish's Team Voices?**
+
 A: This mod plays a sound whenever you kill an enemy and it can be heard from anywhere. Jelly's mutator plays the sound locally so if you kill an enemy from 500 meters away, you won't be hearing their death cry.
 
 
