@@ -1,6 +1,8 @@
 # RF_Template_KillSounds
 template for ravenfield kill sounds mutator
 
+# Thanks to RadioactiveJellyfish and his Player Voice mutator. I was able to steal one line of code to make this mod possible!
+
 tutorial here:
 https://github.com/SuedOnAIM/RF_Template_KillSounds/wiki
 
